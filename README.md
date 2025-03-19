@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project predicts **medical insurance charges** based on factors like **age, BMI, smoking status, and region**. The goal is to build a regression model that estimates insurance costs given patient data.
 
-## 💋 Dataset
+## 🔧 Dataset
 - **Source:** [Kaggle - Medical Cost Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 - **Features:**
   - `age`: Age of the person
